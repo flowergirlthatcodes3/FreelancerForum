@@ -1,0 +1,15 @@
+
+.list{
+    text-align: center;
+    color: lightsalmon;
+    justify-content: space-between;
+    list-style: none;
+
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: slategrey;
+}
+
+
